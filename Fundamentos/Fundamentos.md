@@ -1,1 +1,1 @@
-Neste primeiro módulo é ensinado tudo que se precisa saber para iniciar umacarreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end
+Neste primeiro módulo é ensinado tudo que se precisa saber para iniciar uma carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end

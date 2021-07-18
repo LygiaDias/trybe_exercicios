@@ -1,1 +1,1 @@
-Neste bloco é ensinado sobre utiliar o Git e GitHb
+Neste bloco é ensinado como utilizar o Git e GitHb
