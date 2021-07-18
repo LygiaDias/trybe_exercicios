@@ -1,0 +1,1 @@
+Neste bloco é ensinado sobre como o Unix funciona, assim como a forma de interação via linha de comando
