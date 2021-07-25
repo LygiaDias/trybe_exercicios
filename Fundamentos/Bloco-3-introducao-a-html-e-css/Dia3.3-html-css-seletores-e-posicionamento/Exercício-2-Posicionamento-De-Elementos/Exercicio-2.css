@@ -13,14 +13,25 @@
     padding-left: 60px;
     top: 330px;
     z-index:2;
-  
+  }
   .baloon {
-  
-  }
-  
+
+      margin-left: 200px;
+      width: 220px;
+      margin-top: 10px;
+      z-index: 4;
+      position: absolute;
+}
   .speach {
-    font-size: 25px;
-  }
+        
+  top: 80px;
+  font-size: 25px;
+  z-index: 5;
+  width: 50px;
+  margin-left: 250px;
+  position: absolute;
+}
+
   
   .bowser {
     width: 200px;
