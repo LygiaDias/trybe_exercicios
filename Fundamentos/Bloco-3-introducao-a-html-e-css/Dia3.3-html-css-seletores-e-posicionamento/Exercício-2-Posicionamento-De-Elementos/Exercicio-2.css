@@ -5,13 +5,14 @@
     position: absolute;
     top: 50px;
     z-index: 1; 
-  
-
-}
+  }
   
   .goomba {
     width: 100px;
-  }
+    position: absolute;
+    padding-left: 60px;
+    top: 330px;
+    z-index:2;
   
   .baloon {
   
