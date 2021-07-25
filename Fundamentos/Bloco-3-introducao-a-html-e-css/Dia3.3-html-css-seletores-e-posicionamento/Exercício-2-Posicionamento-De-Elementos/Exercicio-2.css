@@ -32,7 +32,11 @@
   position: absolute;
 }
 
-  
   .bowser {
+  
     width: 200px;
+  position: absolute;
+  padding-left: 400px;
+  z-index:3;
+  top: 130px;
   }
