@@ -91,20 +91,16 @@
 
     //  Crie uma função que exiba o conteúdo de todas as tags <p> no console.
 
-      
+      function todasAsTags() {
+        let todosOsParagrafos = document.getElementsByTagName("p");
+        for (let index = 0; index > todosOsParagrafos.length; index += 1){
+        console.log (todosOsParagrafos [index].innerText);
+        }
+      }
+      todasAsTags ();
 
-/*
-        Aqui você vai modificar os elementos já existentes utilizando apenas as funções:
-        - document.getElementById()
-        - document.getElementsByClassName()
-        - document.getElementsByTagName()
- Crie uma função que mude o texto na tag <p> para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício)
- 
- 
- 
- 
- 
-        */
+
+
     </script>
   </body>
 </html>
